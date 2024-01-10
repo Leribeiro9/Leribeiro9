@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Leticia Ribeiro  </title>
+    <link rel="stylesheet" href="index.css "
+</head>
+<body>
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html"> Sobre mim </a>
+
+            </li>
+            <li>                <a href="projeto.html"> Projetos </a>
+
+            </li> <li>
+                <a href="contato.html"> Contatos </a>
+
+            </li>
+        </ul>
+    </nav>
+
+    <header>
+        <div class="center "> 
+          <img src="./img.png/imagem.png.jpeg"
+
+        </div>
+        <h1> Leticia Ribeiro</h1>
+        <h2> Analista de Sistema</h2>
+    </header> 
+
+    <main>
+      <section>
+        <h3> Sobre mim</h3>
+        <p>
+
+           Olá, meu nome é Leticia Ribeiro de Almeida, tenho 20 anos e gostaria de compartilhar minha empolgação em ingressar na área de Tecnologia da Informação (TI) e buscar meu primeiro emprego nesta área.
+            
+            Sou um apaixonada por tecnologia e estou constantemente buscando aprender e me atualizar sobre as últimas tendências do setor. Embora seja minha primeira experiência profissional na área de TI, estou liberada e pronto para aplicar meus conhecimentos teóricos e aprender com a prática.
+            
+            Sou uma pessoa altamente motivada e tenho a capacidade de aprender rapidamente novas tecnologias e adquirir as habilidades possíveis para desempenhar minhas funções de maneira eficaz. Além disso, sou um comunicador eficiente e trabalho bem em equipe, aproveitando as diferentes perspectivas para encontrar soluções criativas.
+            
+            Embora possa não ter experiência profissional anterior na área de TI, estou confiante de que minha paixão pela tecnologia e minha determinação em crescer e me desenvolver para me tornar um candidato promissor. Estou aberto a oportunidades de estágio, aprendizagem ou posições de entrada na área de TI, onde posso contribuir de forma significativa e continuar aprendendo com profissionais experientes.
+            
+            Estou aberto a conselhos, orientações e oportunidades de networking para profissionais experientes na área de TI. Se você conhece alguém que está procurando por um indivíduo comprometido, motivado e ansioso para iniciar uma carreira na área de TI, fique muito grato por sua indicação.
+            
+            agradeço pela atenção e estou ansioso para me conectar com vocês e explorar as possibilidades de desenvolvimento profissional nesta área empolgante.
+            
+            Atenciosamente Leticia.
+        </p>
+      </section>
+      <section>
+        <h3> Formação</h3>
+        <p> 
+          Ensino Fundamental Completo 
+        </p>
+      </section>
+      <section>
+        </p>
+        Ensino tecnico Completo - Curso Hospedagem 
+      </section>
+      <section>
+      </p>
+       Atualmente cursando ensino superior em Analise de desenvolvimento do Sistema
+    </section>
+    <section>
+      </p>
+        <h3> Cursos</h3>
+        <p>
+          Hospedagem compelto 
+        </p>
+      </section>
+        Site Simples em CSS,HTML e JavaScript - Completo 
+    </p>
+  </section>
+       Design Completo - Em andamento 
+    </main>
+</body>
+</html>
+
+body { 
+   color: aliceblue;
+   background-color: black;
+   font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+img{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    border: 5px solid red;
+}
+
+.center {
+    text-align: center;
+}
+
